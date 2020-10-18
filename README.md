@@ -1,1 +1,3 @@
-![Jack12816](assets/me.gif)
+<p align="center">
+<img src="https://github.com/Jack12816/Jack12816/blob/master/assets/me.gif" />
+</p>
